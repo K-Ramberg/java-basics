@@ -17,3 +17,7 @@ public class TemperaturesC {
 
 	}
 }
+// Alternatively ca write for each loop with following more concise syntax
+// for (Integer temperature : weeklyTemperatures) {
+// 	System.out.println(temperature);
+// }
